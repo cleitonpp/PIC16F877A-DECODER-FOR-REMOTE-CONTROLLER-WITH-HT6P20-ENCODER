@@ -9,6 +9,8 @@ http://acturcato.wordpress.com/2013/12/20/decodificador-para-o-encoder-ht6p20b-e
 
 http://labdegaragem.com/forum/topics/desvendando-controle-remoto-rf
 
+http://www.ccsinfo.com/forum/viewtopic.php?t=42353
+
 Datasheets:
 
 http://pdf1.alldatasheet.com/datasheet-pdf/view/348451/HOLTEK/HT6P20D.html
