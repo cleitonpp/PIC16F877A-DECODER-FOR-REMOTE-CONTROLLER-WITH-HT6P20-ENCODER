@@ -1,4 +1,5 @@
 Code grabber function for HT6P20 encoder using PIC16F877A as decoder
+=====
 
 The main idea of this function is receiving the address from a remote controller button that uses HT6P20x as encoder with "learning code" system, decoding into a microchip PIC16F877A using CCS compiler.
 
