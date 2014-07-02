@@ -28,7 +28,7 @@ boolean startbit;
 // definitions of used ports
 int8 portb = 0x0;            //portB as output
 set_tris_b(portb);
-int8 portc = 0xFF;            //portC as output
+int8 portc = 0xFF;            //portC as input
 set_tris_c(portc);
 
 int verify_rc() 
